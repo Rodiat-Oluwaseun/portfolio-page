@@ -192,3 +192,13 @@ a {
   text-decoration: none;
   list-style-type: none;
 }
+@media  only screen and (max-width: 1000px) {
+  .page-section-work{
+    display: grid;
+  }
+}
+
+@media only screen and(max-width: 600px) {
+
+  
+}
